@@ -1,5 +1,5 @@
-# Find-the-Cat
-111-1 Digital Sound Art and Creation Group11 Final Project
+# Find-the-Invisible-Cat
+NTU 111-1 Digital Sound Art and Creation Group11 Final Project
 
 Group Member:
 - R11944056 Ching, Lui
